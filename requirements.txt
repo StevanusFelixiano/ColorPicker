@@ -2,4 +2,5 @@ scikit-learn
 streamlit==1.20.0
 numpy
 Pillow
+matplotlib
 plotly
